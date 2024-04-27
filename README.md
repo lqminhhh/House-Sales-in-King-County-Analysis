@@ -1,6 +1,6 @@
 # House-Sales-in-King-County-Analysis
 ---
-
+### Authors: Minh Le, Hoa Nguyen, Yen Nguyen
 ## 1. Introduction
 
 King County is the most populous county in Washington, known for its innovation and rich culture. It is a key component of the Seattle-Tacoma-Bellevue metropolitan area, a hub of both economic activity and cultural diversity. In this project, we will use the data set that shape the landscape of "house sale prices" in King County between May 2014 and May 2015 from Kaggle to understand how various factors impose impacts on property values in King County. Through statistical analyses and data visualization, we seek to gain insights that inform both the past and future of real estate in this county. 
@@ -30,7 +30,7 @@ The data set includes homes sold between May 2014 and May 2015 in King County. T
 - `zipcode`: Zip code area of the house.
 
 ## 4. Inference & Regression
-For this part, we conduct hypothesis test and confidence interval between variables to see the correlation as well as the statistical significance of difference between different features of the house. We then conduct a regression model (Simple & Multiple Linear Regression and Logistic Regression) as well as Random Forest model to predict the price of the house based on the chosen features using stepwise selection methods. More results can be found here.
+For this part, we conduct hypothesis test and confidence interval between variables to see the correlation as well as the statistical significance of difference between different features of the house. We then conduct a regression model (Simple & Multiple Linear Regression and Logistic Regression) as well as Random Forest model to predict the price of the house based on the chosen features using stepwise selection methods. More results can be found [here](https://github.com/lqminhhh/House-Sales-in-King-County-Analysis/blob/main/Project%20Report.pdf).
 
 ## 5. Limitations & Conclusions
 
